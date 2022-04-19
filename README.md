@@ -12,7 +12,7 @@ The loser is the one who collects 5 of his chips in a row
 ### Course of the game
 <img src="screenshots/screen2.png">
 
-### Example one of the game ending
+### Example of the one game end
 <img src="screenshots/screen3.png">
 
 The PC wins because the user has 5 of his contiguous 
